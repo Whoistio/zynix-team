@@ -56,7 +56,7 @@ const PricingPage = () => {
       toast({
         title: 'Quote Request Submitted!',
         description: 'We will get back to you shortly with a custom quote.',
-        duration: 3000,
+        duration: 800,
       });
       setLoading(false);
       setFormData({
@@ -67,7 +67,7 @@ const PricingPage = () => {
         budget: '',
         details: '',
       });
-    }, 1500);
+    }, 500);
   };
 
   // Generate pricing JSON for code block display
