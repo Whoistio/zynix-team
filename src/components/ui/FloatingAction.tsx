@@ -53,7 +53,7 @@ const FloatingAction = () => {
       icon: <Phone className="h-4 w-4" />,
       label: "Call Us",
       action: () => {
-        window.location.href = 'tel:+255652181995';
+        window.location.href = 'tel:+255674517279';
         setIsMenuOpen(false);
       },
       color: "bg-gradient-to-r from-green-500 to-green-600"
