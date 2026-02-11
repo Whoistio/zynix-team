@@ -62,7 +62,7 @@ const FloatingAction = () => {
       icon: <Mail className="h-4 w-4" />,
       label: "Email",
       action: () => {
-        window.location.href = 'mailto:zynixtechnologies@gmail.com';
+        window.location.href = 'mailto:cnjuka99@gmail.com';
         setIsMenuOpen(false);
       },
       color: "bg-gradient-to-r from-blue-500 to-blue-600"
@@ -71,7 +71,7 @@ const FloatingAction = () => {
       icon: <MessageSquare className="h-4 w-4" />,
       label: "WhatsApp",
       action: () => {
-        window.open('https://wa.me/255652181995', '_blank');
+        window.open('https://wa.me/255674517279', '_blank');
         setIsMenuOpen(false);
       },
       color: "bg-gradient-to-r from-green-600 to-green-700"
