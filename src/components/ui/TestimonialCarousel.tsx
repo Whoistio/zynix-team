@@ -33,8 +33,8 @@ const testimonials = [
   },
   {
     id: 4,
-    name: "Kise Brown",
-    company: "TanzaFresh",
+    name: "Dick Masabo",
+    company: "Komi code Hub Tech",
     role: "Operations Manager",
     image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     text: "Our e-commerce platform developed by Zynix has opened new markets for us. Sales have increased by 45% in just three months!"
