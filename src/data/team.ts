@@ -36,8 +36,8 @@ export const teamMembers: TeamMember[] = [
     }
   },
   {
-    id: "iamunix",
-    name: "IamUnix",
+    id: "komicode09",
+    name: "KomiCode09",
     role: "System Analyst & Database Architect",
     bio: "System analyst and data specialist with extensive experience in designing and implementing complex business systems and databases. Expert in SQL optimization, data modeling, and business intelligence solutions.",
     image: "https://raw.githubusercontent.com/MrpasswordTz/MrpasswordTz/refs/heads/main/images%20(5).jpeg",
